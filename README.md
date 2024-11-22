@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devumarafzal
-- 👀 I’m interested in anime, tech, and movies
+- 👀 I’m interested in tech, and movies
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
